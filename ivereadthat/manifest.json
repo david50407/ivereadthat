@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "朕知道了",
+  "name": "對",
   "description": "modifies your facebook like button",
-  "version": "9.2",
+  "version": "1",
 
   "permissions": [
     "https://www.facebook.com/"
